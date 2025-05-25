@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Full-stack developer with 3+ years of experience building robust web applications  
+- 🧑‍💻 Full-stack developer experienced in building robust, production-ready web applications  
 - 🛠️ Skilled in **TypeScript**, **JavaScript**, **React**, **Next.js**, **Node.js**, **Express**, and **PostgreSQL**  
 - 🧱 Passionate about crafting reusable components and scalable architectures  
 - ☁️ Experienced in deploying & managing apps on **AWS** (EC2, Amplify, SES, SNS, Route 53, RDS, S3)  
